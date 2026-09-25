@@ -1,0 +1,75 @@
+{
+  "status": "pass",
+  "raw_files_verified": 52,
+  "local_references_checked": 93,
+  "broken_local_references": [],
+  "integrity_failures": [],
+  "external_asset_references_remaining": [
+    "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg"
+  ],
+  "known_unavailable_assets": [
+    {
+      "url": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "status": null,
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ],
+  "original_token_graphs": [
+    {
+      "width": 1280,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 900,
+      "cycles": [
+        [
+          "--heading--h6",
+          "--heading--md--h6"
+        ]
+      ],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 600,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 390,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    }
+  ],
+  "portable_token_graphs": [
+    {
+      "width": 1280,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 900,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 600,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    },
+    {
+      "width": 390,
+      "cycles": [],
+      "missing": [],
+      "variables": 108
+    }
+  ],
+  "scope": "Integrity/link and token dependency checks, not a full cross-browser UI audit."
+}

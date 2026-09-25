@@ -1,0 +1,957 @@
+{
+  "source": "https://variable-design-system.webflow.io",
+  "retrieved_at": "2026-09-25T11:43:54.475808+00:00",
+  "scope": "Public same-origin sitemap and recursively linked HTML; referenced static assets and CSS dependencies.",
+  "pages": [
+    {
+      "url": "https://variable-design-system.webflow.io/",
+      "final_url": "https://variable-design-system.webflow.io/",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 12641,
+      "sha256": "6c5c19d23e15cd9b78dd35c0eea137da34dfb8c7e7b399466fc05a505f09b7da",
+      "seconds": 6.61,
+      "path": "index.html",
+      "title": "Client First Inspired Design System with Variables",
+      "headings": [],
+      "last_published": "Wed Nov 08 2023 21:10:22 GMT+0000 (Coordinated Universal Time) ",
+      "internal_links": [
+        "https://variable-design-system.webflow.io/dev/style-guide"
+      ]
+    },
+    {
+      "url": "https://variable-design-system.webflow.io/dev/components",
+      "final_url": "https://variable-design-system.webflow.io/dev/components",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 23566,
+      "sha256": "d6819e1c8a4d6e8e3debd4b4a7742dc29be25f9fd310e4ce529bd06189f60305",
+      "seconds": 7.23,
+      "path": "dev/components/index.html",
+      "title": "Components",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Components",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Table of Contents",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Intro to Components",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "How to Edit a Component",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Understanding component properties",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Components and Variables",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Components in this site",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Medium length section heading goes here",
+          "id": null
+        }
+      ],
+      "last_published": "Wed Nov 08 2023 21:10:22 GMT+0000 (Coordinated Universal Time) ",
+      "internal_links": [
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/components"
+      ]
+    },
+    {
+      "url": "https://variable-design-system.webflow.io/dev/designer-guide",
+      "final_url": "https://variable-design-system.webflow.io/dev/designer-guide",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 52938,
+      "sha256": "d4789f8c82b5b73b9988fd2294faca2dc669c993e94559c8aa119b5184a62a30",
+      "seconds": 6.78,
+      "path": "dev/designer-guide/index.html",
+      "title": "Designer Guide",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Designer Guide",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Table of Contents",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Getting Started",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "What is Client First?",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Why bother?",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "The Goals of Client First",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Class Naming",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "The two main types of classes",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Utility Classes",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Utility class examples:",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Class Stacking",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Custom Classes",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Custom class examples:",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Naming Custom Classes",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Variables",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Using variables in classes",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Core Structure",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "page-wrapper",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "main-wrapper",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "section_[section-identifier]",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "padding-global",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "container-[size]",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "padding-section-[size]",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Typography",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Using Utility type classes",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Working with headings",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Sizes and rem",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Spacing Strategy",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Key Takeaways",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Resources & Acknowledgments",
+          "id": null
+        }
+      ],
+      "last_published": "Wed Nov 08 2023 21:10:22 GMT+0000 (Coordinated Universal Time) ",
+      "internal_links": [
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/designer-guide"
+      ]
+    },
+    {
+      "url": "https://variable-design-system.webflow.io/dev/style-guide",
+      "final_url": "https://variable-design-system.webflow.io/dev/style-guide",
+      "status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "bytes": 150761,
+      "sha256": "2a612f4937a8740562afd79bdf139abeecf8435f6164e1958bf5908d14977e7e",
+      "seconds": 6.69,
+      "path": "dev/style-guide/index.html",
+      "title": "Style Guide",
+      "headings": [
+        {
+          "level": 1,
+          "text": "Style Guide",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "Heading 1",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading 2",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Heading 3",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Heading 4",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Heading 5",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "Heading 6",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h1",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h2",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h3",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h4",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h5",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading-style-h6",
+          "id": null
+        },
+        {
+          "level": 1,
+          "text": "Heading 1",
+          "id": null
+        },
+        {
+          "level": 2,
+          "text": "Heading 2",
+          "id": null
+        },
+        {
+          "level": 3,
+          "text": "Heading 3",
+          "id": null
+        },
+        {
+          "level": 4,
+          "text": "Heading 4",
+          "id": null
+        },
+        {
+          "level": 5,
+          "text": "Heading 5",
+          "id": null
+        },
+        {
+          "level": 6,
+          "text": "Heading 6",
+          "id": null
+        }
+      ],
+      "last_published": "Wed Nov 08 2023 21:10:22 GMT+0000 (Coordinated Universal Time) ",
+      "internal_links": [
+        "https://variable-design-system.webflow.io/dev/designer-guide",
+        "https://variable-design-system.webflow.io/dev/components",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide",
+        "https://variable-design-system.webflow.io/dev/style-guide"
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "final_url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "status": 200,
+      "content_type": "text/javascript; charset=UTF-8",
+      "bytes": 13188,
+      "sha256": "81016ac6be850b72df5d4faa0c3cec8e2c1b0ba0045712144a6766adfad40bee",
+      "seconds": 8.61,
+      "path": "assets/ajax.googleapis.com/012e56dad079-webfont.js"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-1080.webp",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-1080.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 25602,
+      "sha256": "c3a9ed7b6ec5b9f6d710ffe43a8ef42dc5192619772b8b496c1ff6c6038fe618",
+      "seconds": 11.4,
+      "path": "assets/assets-global.website-files.com/5fa58485fa2f-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt-p-1080.webp"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-1600.webp",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-1600.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 40200,
+      "sha256": "1aa3c67437ba52b23df1494a82a25e397bc7a6a75d39b86de0ddac7ca49999d2",
+      "seconds": 11.37,
+      "path": "assets/assets-global.website-files.com/2cd6714e9702-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt-p-1600.webp"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-500.webp",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-500.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 9740,
+      "sha256": "7a9dedffe0d24a03531fa7c61b9a440a23e0334ae78167e65c8afa2590afdb7d",
+      "seconds": 11.71,
+      "path": "assets/assets-global.website-files.com/e1cdf6fda734-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt-p-500.webp"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-800.webp",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt-p-800.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 17954,
+      "sha256": "d149c828a303fb044c235458d5bac7bc1c43356b5cac08dc06151be59fe52f82",
+      "seconds": 11.57,
+      "path": "assets/assets-global.website-files.com/f2807e47b70f-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt-p-800.webp"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt.webp",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 678605,
+      "sha256": "66c10ec7cb1d7e8ebd81ef5c2f26636d2dfda214fac73c1ccea0e5e056483465",
+      "seconds": 2.77,
+      "path": "assets/assets-global.website-files.com/4c9c1a24a0ab-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt.webp"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/css/variable-design-system.webflow.08f7d96a9.css",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/css/variable-design-system.webflow.08f7d96a9.css",
+      "status": 200,
+      "content_type": "text/css",
+      "bytes": 138591,
+      "sha256": "8652bc6a72ba76c4d768db325f5608b3df1c6ce8832b4e1205bd2866a1df32f2",
+      "seconds": 7.1,
+      "path": "assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css"
+    },
+    {
+      "url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/js/webflow.e07567476.js",
+      "final_url": "https://assets-global.website-files.com/652dae448c5ccf7a5dd97a2c/js/webflow.e07567476.js",
+      "status": 200,
+      "content_type": "text/javascript",
+      "bytes": 509660,
+      "sha256": "6d15af7c944a45176a574acd5b42af6ff71cf74606b0df74f3bd1a418e43dc0f",
+      "seconds": 7.02,
+      "path": "assets/assets-global.website-files.com/2c42ebefd267-webflow.e07567476.js"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-toc@1/toc.js",
+      "final_url": "https://cdn.jsdelivr.net/npm/@finsweet/attributes-toc@1/toc.js",
+      "status": 200,
+      "content_type": "application/javascript; charset=utf-8",
+      "bytes": 22442,
+      "sha256": "8f3080c9459e76305ed52789a727b30786b4d8e27da652424db04a22f42ad83d",
+      "seconds": 8.46,
+      "path": "assets/cdn.jsdelivr.net/eb6cbf3d9bae-toc.js"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/624380709031625abc4aee65_company-logo.svg",
+      "final_url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/624380709031625abc4aee65_company-logo.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1726,
+      "sha256": "ed2398d02be02d1e27a2c3d3a402be22c3cb0a5b6f6acf8c3f1f147d963935d1",
+      "seconds": 5.73,
+      "path": "assets/cdn.prod.website-files.com/e6069f3b2026-624380709031625abc4aee65_company-logo.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/624380709031626fc14aee84_icon.svg",
+      "final_url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/624380709031626fc14aee84_icon.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 903,
+      "sha256": "6d5c26f2e5da545c01f88d4ba21631c0f2bf82abbd342c22b7a0ab63353c827d",
+      "seconds": 5.68,
+      "path": "assets/cdn.prod.website-files.com/4199ed3581e6-624380709031626fc14aee84_icon.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/6294195f2d0c46815fb2259c_icon.svg",
+      "final_url": "https://cdn.prod.website-files.com/624380709031623bfe4aee60/6294195f2d0c46815fb2259c_icon.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 906,
+      "sha256": "93ddcf74dfb03c8610dd5d4ee7059ff7a21a761d750d3e7b8fadda87557b4df4",
+      "seconds": 5.79,
+      "path": "assets/cdn.prod.website-files.com/be138f31affb-6294195f2d0c46815fb2259c_icon.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a48_Placeholder%20Image.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a48_Placeholder%20Image.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 1437,
+      "sha256": "aee93ace9bdb3f2365f1cc6f92129d3d13ad6068d92f2ecb375d0eea55b0e87c",
+      "seconds": 5.82,
+      "path": "assets/cdn.prod.website-files.com/93531bf73c65-652dae448c5ccf7a5dd97a48_Placeholder-Image.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a49_section-titles.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a49_section-titles.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 46669,
+      "sha256": "69f2fb4df38e6f8de44d01b96b1f28fa79be3438192c0a8fd2b4128e3f72fbe5",
+      "seconds": 4.95,
+      "path": "assets/cdn.prod.website-files.com/5817fce018d6-652dae448c5ccf7a5dd97a49_section-titles.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a4c_Heading%20Styles.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a4c_Heading%20Styles.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 61298,
+      "sha256": "2a1a1e02c5666ca17c7641bba425a2250cb6db6c9b133e569576da4cadae79f4",
+      "seconds": 4.95,
+      "path": "assets/cdn.prod.website-files.com/1fe1281d126f-652dae448c5ccf7a5dd97a4c_Heading-Styles.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a50_heading-style-2.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a50_heading-style-2.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 72432,
+      "sha256": "be55bb54a60e8b37b1711e790d915a1f03bde9af4da056543766ac464b0c7301",
+      "seconds": 3.4,
+      "path": "assets/cdn.prod.website-files.com/587567b6e31a-652dae448c5ccf7a5dd97a50_heading-style-2.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a51_placeholder-image.svg",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a51_placeholder-image.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 1017,
+      "sha256": "1b28e9b7e4c6b80b4407c87f391b5fc22c69465e2039b92f7f1002d1bb67dcfb",
+      "seconds": 10.3,
+      "path": "assets/cdn.prod.website-files.com/7db3f6b0c22c-652dae448c5ccf7a5dd97a51_placeholder-image.svg"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a52_Favicon.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a52_Favicon.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 484,
+      "sha256": "05a231b57faca615dbc8b8f70ffc6066774936cf98d7175fca114b95a6be0b67",
+      "seconds": 9.98,
+      "path": "assets/cdn.prod.website-files.com/7261e5101d7c-652dae448c5ccf7a5dd97a52_Favicon.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a53_Core-structure.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a53_Core-structure.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 14976,
+      "sha256": "c81152fe3b9e1a64d065b9f5bf4fa14a757d9f6977919eb7c142ae5823d1102b",
+      "seconds": 10.18,
+      "path": "assets/cdn.prod.website-files.com/08a762a39fe6-652dae448c5ccf7a5dd97a53_Core-structure.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a60_text%20utility%20styles.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a60_text%20utility%20styles.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 69940,
+      "sha256": "d36bfe9fba6ce642b9ad073fe4b2348dca89ebf570e3cfe96b43035e4a069043",
+      "seconds": 10.19,
+      "path": "assets/cdn.prod.website-files.com/9340e62268be-652dae448c5ccf7a5dd97a60_text-utility-styles.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a64_Webclip.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a64_Webclip.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 2471,
+      "sha256": "36025d293e6b5d6fa60a91049346c8e488905db0fb74a90215bf985411d17559",
+      "seconds": 10.03,
+      "path": "assets/cdn.prod.website-files.com/5428c44bacb6-652dae448c5ccf7a5dd97a64_Webclip.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a66_64b1587b18f8f471862c9473_Content%2520properties.png",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652dae448c5ccf7a5dd97a66_64b1587b18f8f471862c9473_Content%2520properties.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 169541,
+      "sha256": "ee3a646d09b368dd8e65f7fad580b280161ef39993336b93707c848fd76fda51",
+      "seconds": 9.23,
+      "path": "assets/cdn.prod.website-files.com/8cad44ddd823-652dae448c5ccf7a5dd97a66_64b1587b18f8f471862c9473_Content-20properties.png"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt.webp",
+      "final_url": "https://cdn.prod.website-files.com/652dae448c5ccf7a5dd97a2c/652db2873437d8fc576ba9a3_Webflow%2BFrameworks-opt.webp",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 678605,
+      "sha256": "66c10ec7cb1d7e8ebd81ef5c2f26636d2dfda214fac73c1ccea0e5e056483465",
+      "seconds": 9.03,
+      "path": "assets/cdn.prod.website-files.com/9b93aced9859-652db2873437d8fc576ba9a3_Webflow-Frameworks-opt.webp"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/plugins/Basic/assets/placeholder.60f9b1840c.svg",
+      "status": null,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=652dae448c5ccf7a5dd97a2c",
+      "final_url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=652dae448c5ccf7a5dd97a2c",
+      "status": 200,
+      "content_type": "application/javascript",
+      "bytes": 89476,
+      "sha256": "f7f6a5894f1d19ddad6fa392b2ece2c5e578cbf7da4ea805b6885eb6985b6e3d",
+      "seconds": 7.33,
+      "path": "assets/d3e54v103j8qbb.cloudfront.net/16e31e6926b9-jquery-3.5.1.min.dc5e7f18c8.js"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Vollkorn:400,400italic,700,700italic",
+      "final_url": "https://fonts.googleapis.com/css?family=Montserrat:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic|Vollkorn:400,400italic,700,700italic",
+      "status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "bytes": 4603,
+      "sha256": "8416bad617d7f56019c4bfeb23c248c734433bec7b9b38a8feffe51c8176de8f",
+      "seconds": 5.68,
+      "path": "assets/fonts.googleapis.com/7891656c5560-css.css"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg",
+      "final_url": "https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg",
+      "status": 200,
+      "content_type": "image/svg+xml",
+      "bytes": 167,
+      "sha256": "121f8dc257d116b52e8d91b2c735fd52e7516c268b6c721c60ac45d22d5e6404",
+      "seconds": 6.67,
+      "path": "assets/d3e54v103j8qbb.cloudfront.net/5ff0c03f9b15-custom-checkbox-checkmark.589d534424.svg"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48940,
+      "sha256": "140ace05dddee69a5cbe44c0659c2c211c639bacfe14989373ff27ff102c5e3f",
+      "seconds": 7.7,
+      "path": "assets/fonts.gstatic.com/2415b88c98a5-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq0N6WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49060,
+      "sha256": "0d865d49023bc608f9c50289d62d8dde7dca35cc94c6324e06d88f6af44fbe51",
+      "seconds": 7.7,
+      "path": "assets/fonts.gstatic.com/affa3242aa0e-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq3p6WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49016,
+      "sha256": "2230471388a5fb0a50dff4c4d6bb419f136c8d49da02734758863c175fd6ab5d",
+      "seconds": 7.78,
+      "path": "assets/fonts.gstatic.com/6e10822b2e49-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq5Z9WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48904,
+      "sha256": "6718891f853c111526bca66e75c343a96496dfb69db7ee900e31d8a41804a14e",
+      "seconds": 7.75,
+      "path": "assets/fonts.gstatic.com/0ce10c4aa5c7-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R8WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48904,
+      "sha256": "4b231e17d95572effae93f5d02a1bc82604e351ac01e508738fdcc23ca7585d7",
+      "seconds": 1.07,
+      "path": "assets/fonts.gstatic.com/bc0d8aa5a966-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49012,
+      "sha256": "8152496c381d40fcb3aaaeb74457fd40ad40fccc3a30611023979c1597a52765",
+      "seconds": 6.77,
+      "path": "assets/fonts.gstatic.com/fb08e0218d3c-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq_p9WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49452,
+      "sha256": "8f3d8943d5833c2c367982ecccfc6b3bb2dde5563d26e37731a327e5b8b6e318",
+      "seconds": 6.88,
+      "path": "assets/fonts.gstatic.com/5b4a72743e47-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqw16WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49504,
+      "sha256": "0a87263719cf507193e76ae4124dbcf4f2b69dcf6d39f4085d12f94265a60ce1",
+      "seconds": 6.83,
+      "path": "assets/fonts.gstatic.com/d57674f17ff1-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR6WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49044,
+      "sha256": "9b4568471ca4fba5d5b4696a7b1e25f582c5158704c88fb6f430fd79141c6ca6",
+      "seconds": 6.79,
+      "path": "assets/fonts.gstatic.com/98d30a4747af-JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jqyR9WXh0ow.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48532,
+      "sha256": "a30a5d096ee32d9e4d7952daee4807e726b5201bea5d9951f0fb5a8619388555",
+      "seconds": 6.79,
+      "path": "assets/fonts.gstatic.com/46970ae53686-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48556,
+      "sha256": "8f24d2f2c02250f7cc91ff6b4dd4c284efbed7a7e24f372c769b1631df56f54c",
+      "seconds": 7.14,
+      "path": "assets/fonts.gstatic.com/f804c6019c35-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48532,
+      "sha256": "76c4f058aac767f2f886d4f29393f6c38b47c7dc48f502dd9e30a273b4987e81",
+      "seconds": 7.14,
+      "path": "assets/fonts.gstatic.com/f9f931d4cae3-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48444,
+      "sha256": "9e86c2b38e65c969f8cd5c8c803fbaa1c421d6ec01dd93f2425de645798a77f9",
+      "seconds": 7.19,
+      "path": "assets/fonts.gstatic.com/bc19e6a1eb3b-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Xw5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48644,
+      "sha256": "96c43ee88af9d0379312ed086502f87f6bfebf675a6f473770d08c6dd27f2c1f",
+      "seconds": 7.09,
+      "path": "assets/fonts.gstatic.com/d59b081cc22e-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48520,
+      "sha256": "5a491022018fd3965df4c071a581b055971e5be605b6df79d7ab03437a10234e",
+      "seconds": 7.18,
+      "path": "assets/fonts.gstatic.com/b2dd8af98829-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48972,
+      "sha256": "aca194ccb86c639f0060eb5e9630e16d3b37ab5a8d27375e62a98a331ff91f9e",
+      "seconds": 7.49,
+      "path": "assets/fonts.gstatic.com/5433cb877a25-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvC73w5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 48560,
+      "sha256": "58152b6edba3efa6db6808650f9f4e4e9a6f75130d47e5ea01ec3d820351b2d8",
+      "seconds": 7.52,
+      "path": "assets/fonts.gstatic.com/b2cd389ed9c4-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr6Hw5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf",
+      "final_url": "https://fonts.gstatic.com/s/montserrat/v31/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 49024,
+      "sha256": "b532ab97e82b8938a878cbf2611357f5331f4dc2cf08fc76c1f7b4076a68d5e4",
+      "seconds": 7.56,
+      "path": "assets/fonts.gstatic.com/aa2d7e6a7719-JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCvr73w5aX8.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmZ.ttf",
+      "final_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmZ.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 59268,
+      "sha256": "63ec3bdc94e362ef3d9349c3e6bc18901518e33c6a38fd2f62c783203abb220d",
+      "seconds": 7.44,
+      "path": "assets/fonts.gstatic.com/4280388bafdf-0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df213aeHmmZ.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf",
+      "final_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 59004,
+      "sha256": "658eaeab72e7cc8854b6bea43cbbc394d3b9da143c3e98967f1cdcd37a3092b2",
+      "seconds": 7.39,
+      "path": "assets/fonts.gstatic.com/5cd80b8b986e-0ybgGDoxxrvAnPhYGzMlQLzuMasz6Df2MHGeHmmZ.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObE.ttf",
+      "final_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObE.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 60972,
+      "sha256": "22d45ae79c2bd0b1ff8934f12f2e7500e7961818f851bf9ade977153cbe6dee6",
+      "seconds": 8.15,
+      "path": "assets/fonts.gstatic.com/395e1ed5a823-0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DJGWlmeObE.ttf"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObE.ttf",
+      "final_url": "https://fonts.gstatic.com/s/vollkorn/v30/0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObE.ttf",
+      "status": 200,
+      "content_type": "font/ttf",
+      "bytes": 61332,
+      "sha256": "4fe55739e34cc4835b2ac11c7f53c17018ffd8703bea7e048081afcab79128fd",
+      "seconds": 8.05,
+      "path": "assets/fonts.gstatic.com/fdeca927b1ee-0ybuGDoxxrvAnPhYGxksckM2WMCpRjDj-DKhXVmeObE.ttf"
+    }
+  ],
+  "infrastructure": [
+    {
+      "url": "https://variable-design-system.webflow.io/robots.txt",
+      "final_url": "https://variable-design-system.webflow.io/robots.txt",
+      "status": 200,
+      "content_type": "text/plain; charset=utf-8",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "seconds": 8.44
+    },
+    {
+      "url": "https://variable-design-system.webflow.io/sitemap.xml",
+      "final_url": "https://variable-design-system.webflow.io/sitemap.xml",
+      "status": 200,
+      "content_type": "application/rss+xml; charset=utf-8",
+      "bytes": 640,
+      "sha256": "4fe6ef2da3c1b355651ef0710f8d8c537c17b92eedb72d077bab129057edac2d",
+      "seconds": 6.84
+    }
+  ],
+  "external_links": [
+    "http://calebraney.com/",
+    "http://finsweet.com/",
+    "https://finsweet.com/client-first/docs/classes-strategy-1",
+    "https://finsweet.com/client-first/docs/classes-strategy-2",
+    "https://finsweet.com/client-first/docs/sizes-and-rem",
+    "https://finsweet.com/client-first/docs/spacing-strategy",
+    "https://finsweet.com/extension",
+    "https://library.relume.io/",
+    "https://relume.io/",
+    "https://university.webflow.com/lesson/components",
+    "https://www.finsweet.com/client-first/",
+    "https://www.finsweet.com/client-first/docs/intro"
+  ],
+  "external_embeds": [
+    "https://cdn.loom.com/sessions/thumbnails/ca899625a33b4515aedcdb1a897505f2-00001.gif",
+    "https://www.loom.com/share/ca899625a33b4515aedcdb1a897505f2"
+  ],
+  "limitations": [
+    "Not an authenticated Webflow Designer project export.",
+    "No unpublished pages or CMS database.",
+    "External documentation and video players remain references.",
+    "Forms retain demo markup; no form backend has been migrated."
+  ]
+}

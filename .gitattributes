@@ -1,0 +1,4 @@
+# Retain exact upstream HTTP bytes, including line endings and whitespace.
+archive/** -text -whitespace
+extracted/inline/** -text -whitespace
+extracted/components/** -text -whitespace

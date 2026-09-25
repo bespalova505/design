@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>
+            https://variable-design-system.webflow.io
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://variable-design-system.webflow.io/dev/components
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://variable-design-system.webflow.io/dev/designer-guide
+        </loc>
+    </url>
+    <url>
+        <loc>
+            https://variable-design-system.webflow.io/dev/style-guide
+        </loc>
+    </url>
+</urlset>

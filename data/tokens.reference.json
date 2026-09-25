@@ -1,0 +1,1473 @@
+{
+  "status": "extracted-original-including-known-defects",
+  "source": "https://variable-design-system.webflow.io",
+  "retrieved_at": "2026-09-25T11:43:54.475808+00:00",
+  "records": [
+    {
+      "name": "--color--background--primary",
+      "value": "var(--swatch--light-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--light-1"
+      ]
+    },
+    {
+      "name": "--text-family--paragraph",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--color--text--primary",
+      "value": "var(--swatch--dark-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--dark-1"
+      ]
+    },
+    {
+      "name": "--text-family--h1",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h1",
+      "value": "3.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--h2",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h2",
+      "value": "3rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--h3",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h3",
+      "value": "2.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--h4",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h4",
+      "value": "2rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--h5",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h5",
+      "value": "1.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--h6",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--heading--h6",
+      "value": "1.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--color--text--secondary",
+      "value": "var(--swatch--dark-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--dark-1"
+      ]
+    },
+    {
+      "name": "--swatch--dark-1",
+      "value": "black",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--block-quote",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--core-structure--max-width-large",
+      "value": "80rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--core-structure--max-width-medium",
+      "value": "64rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--core-structure--max-width-small",
+      "value": "48rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--spacing--tiny",
+      "value": "var(--size--0-25)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--0-25"
+      ]
+    },
+    {
+      "name": "--spacing--xxsmall",
+      "value": "var(--size--0-5)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--0-5"
+      ]
+    },
+    {
+      "name": "--spacing--xsmall",
+      "value": "var(--size--1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--1"
+      ]
+    },
+    {
+      "name": "--spacing--small",
+      "value": "var(--size--1-5)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--1-5"
+      ]
+    },
+    {
+      "name": "--spacing--medium",
+      "value": "var(--size--2)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--2"
+      ]
+    },
+    {
+      "name": "--spacing--large",
+      "value": "var(--size--3)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--3"
+      ]
+    },
+    {
+      "name": "--spacing--xlarge",
+      "value": "var(--size--4)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--4"
+      ]
+    },
+    {
+      "name": "--spacing--xxlarge",
+      "value": "var(--size--5)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--5"
+      ]
+    },
+    {
+      "name": "--spacing--huge",
+      "value": "var(--size--6)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--6"
+      ]
+    },
+    {
+      "name": "--spacing--xhuge",
+      "value": "var(--size--7)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--7"
+      ]
+    },
+    {
+      "name": "--spacing--xxhuge",
+      "value": "var(--size--10)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--10"
+      ]
+    },
+    {
+      "name": "--swatch--light-1",
+      "value": "white",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--swatch--light-2",
+      "value": "#f4f4f4",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--border-width--main",
+      "value": "1px",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--button",
+      "value": "var(--text-family--options--system)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--text-family--options--system"
+      ]
+    },
+    {
+      "name": "--color--text--light-primary",
+      "value": "var(--swatch--light-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--light-1"
+      ]
+    },
+    {
+      "name": "--color--border--primary",
+      "value": "var(--swatch--dark-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--dark-1"
+      ]
+    },
+    {
+      "name": "--swatch--brand-1",
+      "value": "#5139eb",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--color--background--dark",
+      "value": "var(--swatch--dark-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--dark-1"
+      ]
+    },
+    {
+      "name": "--core-structure--section-small",
+      "value": "var(--size--3)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--3"
+      ]
+    },
+    {
+      "name": "--core-structure--page-padding",
+      "value": "5vw",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--core-structure--section-medium",
+      "value": "var(--size--5)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--5"
+      ]
+    },
+    {
+      "name": "--core-structure--section-large",
+      "value": "var(--size--7)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--size--7"
+      ]
+    },
+    {
+      "name": "--text-family--options--system",
+      "value": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--options--montserrat",
+      "value": "Montserrat, sans-serif",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--text-family--options--vollkorn",
+      "value": "Vollkorn, serif",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--0-25",
+      "value": ".25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--0-5",
+      "value": ".5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--0-75",
+      "value": ".75rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--1",
+      "value": "1rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-25",
+      "value": "1.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-5",
+      "value": "1.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-75",
+      "value": "1.75rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--2",
+      "value": "2rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--2-5",
+      "value": "2.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--3",
+      "value": "3rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--3-5",
+      "value": "3.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--4",
+      "value": "4rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--4-5",
+      "value": "4.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--5",
+      "value": "5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--6",
+      "value": "6rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--7",
+      "value": "7rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--8",
+      "value": "8rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--9",
+      "value": "9rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--10",
+      "value": "10rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--11",
+      "value": "11rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--12",
+      "value": "12rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--13",
+      "value": "13rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--14",
+      "value": "14rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--15",
+      "value": "15rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--16",
+      "value": "16rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--17",
+      "value": "17rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--18",
+      "value": "18rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--19",
+      "value": "19rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--size--20",
+      "value": "20rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--color--text--accent",
+      "value": "var(--swatch--brand-1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--brand-1"
+      ]
+    },
+    {
+      "name": "--border-width--large",
+      "value": "2px",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--border-radius--medium",
+      "value": "1.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--border-radius--x-small",
+      "value": ".5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--border-radius--small",
+      "value": "1rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--border-radius--large",
+      "value": "3rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--md--h1",
+      "value": "3.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--sm--h1",
+      "value": "2.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--xs--h1",
+      "value": "var(--heading--sm--h1)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--sm--h1"
+      ]
+    },
+    {
+      "name": "--heading--md--h2",
+      "value": "2.75rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--md--h3",
+      "value": "2.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--md--h4",
+      "value": "1.75rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--md--h5",
+      "value": "1.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--md--h6",
+      "value": "var(--heading--h6)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--h6"
+      ]
+    },
+    {
+      "name": "--heading--sm--h2",
+      "value": "2.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--sm--h3",
+      "value": "2rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--sm--h4",
+      "value": "1.5rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--sm--h5",
+      "value": "1.25rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--sm--h6",
+      "value": "1.125rem",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--heading--xs--h2",
+      "value": "var(--heading--sm--h2)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--sm--h2"
+      ]
+    },
+    {
+      "name": "--heading--xs--h3",
+      "value": "var(--heading--sm--h3)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--sm--h3"
+      ]
+    },
+    {
+      "name": "--heading--xs--h4",
+      "value": "var(--heading--sm--h4)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--sm--h4"
+      ]
+    },
+    {
+      "name": "--heading--xs--h5",
+      "value": "var(--heading--sm--h5)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--sm--h5"
+      ]
+    },
+    {
+      "name": "--heading--xs--h6",
+      "value": "var(--heading--h6)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--heading--h6"
+      ]
+    },
+    {
+      "name": "--border-radius--rounded",
+      "value": "100vw",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": []
+    },
+    {
+      "name": "--color--background--secondary",
+      "value": "var(--swatch--light-2)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--light-2"
+      ]
+    },
+    {
+      "name": "--color--border--secondary",
+      "value": "var(--swatch--light-2)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--light-2"
+      ]
+    },
+    {
+      "name": "--color--text--light-secondary",
+      "value": "var(--swatch--light-2)",
+      "context": [],
+      "source": "archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css",
+      "references": [
+        "--swatch--light-2"
+      ]
+    },
+    {
+      "name": "--size--2-5",
+      "value": "2.25rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--3",
+      "value": "2.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--3-5",
+      "value": "2.75rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--4",
+      "value": "3rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--4-5",
+      "value": "3.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--5",
+      "value": "4rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--6",
+      "value": "4.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--7",
+      "value": "5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--8",
+      "value": "5.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--9",
+      "value": "6rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--10",
+      "value": "6.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--11",
+      "value": "7rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--12",
+      "value": "7.5rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--13",
+      "value": "8rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--14",
+      "value": "9rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--15",
+      "value": "10rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--16",
+      "value": "11rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--17",
+      "value": "12rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--18",
+      "value": "13rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--19",
+      "value": "14rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--20",
+      "value": "15rem",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--0-75",
+      "value": "0.625rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--1",
+      "value": "0.75rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-25",
+      "value": "1rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-5",
+      "value": "1.125rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--1-75",
+      "value": "1.25rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--2",
+      "value": "1.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--2-5",
+      "value": "2.125rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--3",
+      "value": "2.25rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--3-5",
+      "value": "2.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--4",
+      "value": "2.75rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--4-5",
+      "value": "3rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--5",
+      "value": "3.25rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--6",
+      "value": "3.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--7",
+      "value": "3.75rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--8",
+      "value": "4rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--9",
+      "value": "4.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--10",
+      "value": "5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--11",
+      "value": "5.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--12",
+      "value": "6rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--13",
+      "value": "6.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--14",
+      "value": "7rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--15",
+      "value": "7.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--16",
+      "value": "8rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--17",
+      "value": "8.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--18",
+      "value": "9rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--19",
+      "value": "9.5rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--size--20",
+      "value": "10rem",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-01.css",
+      "references": []
+    },
+    {
+      "name": "--hover-duration-1",
+      "value": "400ms",
+      "context": [],
+      "source": "extracted/inline/global-02.css",
+      "references": []
+    },
+    {
+      "name": "--hover-duration-2",
+      "value": "800ms",
+      "context": [],
+      "source": "extracted/inline/global-02.css",
+      "references": []
+    },
+    {
+      "name": "--hover-ease-1",
+      "value": "ease",
+      "context": [],
+      "source": "extracted/inline/global-02.css",
+      "references": []
+    },
+    {
+      "name": "--hover-ease-2",
+      "value": "cubic-bezier(.075, .82, .165, 1)",
+      "context": [],
+      "source": "extracted/inline/global-02.css",
+      "references": []
+    },
+    {
+      "name": "--heading--h1",
+      "value": "var(--heading--md--h1)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h1"
+      ]
+    },
+    {
+      "name": "--heading--h2",
+      "value": "var(--heading--md--h2)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h2"
+      ]
+    },
+    {
+      "name": "--heading--h3",
+      "value": "var(--heading--md--h3)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h3"
+      ]
+    },
+    {
+      "name": "--heading--h4",
+      "value": "var(--heading--md--h4)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h4"
+      ]
+    },
+    {
+      "name": "--heading--h5",
+      "value": "var(--heading--md--h5)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h5"
+      ]
+    },
+    {
+      "name": "--heading--h6",
+      "value": "var(--heading--md--h6)",
+      "context": [
+        "@media screen and (max-width: 991px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--md--h6"
+      ]
+    },
+    {
+      "name": "--heading--h1",
+      "value": "var(--heading--sm--h1)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h1"
+      ]
+    },
+    {
+      "name": "--heading--h2",
+      "value": "var(--heading--sm--h2)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h2"
+      ]
+    },
+    {
+      "name": "--heading--h3",
+      "value": "var(--heading--sm--h3)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h3"
+      ]
+    },
+    {
+      "name": "--heading--h4",
+      "value": "var(--heading--sm--h4)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h4"
+      ]
+    },
+    {
+      "name": "--heading--h5",
+      "value": "var(--heading--sm--h5)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h5"
+      ]
+    },
+    {
+      "name": "--heading--h6",
+      "value": "var(--heading--sm--h6)",
+      "context": [
+        "@media screen and (max-width: 767px)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--sm--h6"
+      ]
+    },
+    {
+      "name": "--heading--h1",
+      "value": "var(--heading--xs--h1)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h1"
+      ]
+    },
+    {
+      "name": "--heading--h2",
+      "value": "var(--heading--xs--h2)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h2"
+      ]
+    },
+    {
+      "name": "--heading--h3",
+      "value": "var(--heading--xs--h3)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h3"
+      ]
+    },
+    {
+      "name": "--heading--h4",
+      "value": "var(--heading--xs--h4)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h4"
+      ]
+    },
+    {
+      "name": "--heading--h5",
+      "value": "var(--heading--xs--h5)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h5"
+      ]
+    },
+    {
+      "name": "--heading--h6",
+      "value": "var(--heading--xs--h6)",
+      "context": [
+        "@media screen and (max-width: 478)"
+      ],
+      "source": "extracted/inline/global-02.css",
+      "references": [
+        "--heading--xs--h6"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+
+
+/* These classes are never overwritten */
+.hide {
+  display: none !important;
+}
+
+/* tablet sizing values */
+@media screen and (max-width: 991px) {
+  :root {
+    /* tablet spacing values */
+    /* --size--0-25: 0.25rem; */
+    /* --size--0-5: 0.5rem; */
+    /* --size--0-75: 0.75rem; */
+    /* --size--1: 1rem; */
+    /* --size--1-25: 1.25rem; */
+    /* --size--1-5: 1.5rem; */
+    /* --size--1-75: 1.75rem; */
+    /* --size--2: 2rem; */
+    --size--2-5: 2.25rem;
+    --size--3: 2.5rem;
+    --size--3-5: 2.75rem;
+    --size--4: 3rem;
+    --size--4-5: 3.5rem;
+    --size--5: 4rem;
+    --size--6: 4.5rem;
+    --size--7: 5rem;
+    --size--8: 5.5rem;
+    --size--9: 6rem;
+    --size--10: 6.5rem;
+    --size--11: 7rem;
+    --size--12: 7.5rem;
+    --size--13: 8rem;
+    --size--14: 9rem;
+    --size--15: 10rem;
+    --size--16: 11rem;
+    --size--17: 12rem;
+    --size--18: 13rem;
+    --size--19: 14rem;
+    --size--20: 15rem;
+  }
+}
+/* mobile sizing values*/
+@media screen and (max-width: 767px) {
+  :root {
+    /* tablet spacing values */
+    /* --size--0-25: 0.25rem; */
+    /* --size--0-5: 0.5rem; */
+    --size--0-75: 0.625rem;
+    --size--1: 0.75rem;
+    --size--1-25: 1rem;
+    --size--1-5: 1.125rem;
+    --size--1-75: 1.25rem;
+    --size--2: 1.5rem;
+    --size--2-5: 2.125rem;
+    --size--3: 2.25rem;
+    --size--3-5: 2.5rem;
+    --size--4: 2.75rem;
+    --size--4-5: 3rem;
+    --size--5: 3.25rem;
+    --size--6: 3.5rem;
+    --size--7: 3.75rem;
+    --size--8: 4rem;
+    --size--9: 4.5rem;
+    --size--10: 5rem;
+    --size--11: 5.5rem;
+    --size--12: 6rem;
+    --size--13: 6.5rem;
+    --size--14: 7rem;
+    --size--15: 7.5rem;
+    --size--16: 8rem;
+    --size--17: 8.5rem;
+    --size--18: 9rem;
+    --size--19: 9.5rem;
+    --size--20: 10rem;
+  }
+}
+
+
+
+@media screen and (max-width: 991px), 
+  @media screen and (max-width: 767px), 
+  @media screen and (max-width: 479px){
+    .hide, .hide-tablet{
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 767px)
+    .hide-mobile-landscape{
+      display: none !important;
+    }
+  }
+  @media screen and (max-width: 479px)
+    .hide-mobile{
+      display: none !important;
+    }
+  }
+ 
+.margin-0 {
+  margin: 0rem !important;
+}
+  
+.padding-0 {
+  padding: 0rem !important;
+}
+
+.spacing-clean {
+padding: 0rem !important;
+margin: 0rem !important;
+}
+
+.margin-top {
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-top {
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+  
+.margin-right {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-right {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-bottom {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+
+.padding-bottom {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+.margin-left {
+  margin-top: 0rem !important;
+  margin-right: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+  
+.padding-left {
+  padding-top: 0rem !important;
+  padding-right: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+  
+.margin-horizontal {
+  margin-top: 0rem !important;
+  margin-bottom: 0rem !important;
+}
+
+.padding-horizontal {
+  padding-top: 0rem !important;
+  padding-bottom: 0rem !important;
+}
+
+.margin-vertical {
+  margin-right: 0rem !important;
+  margin-left: 0rem !important;
+}
+  
+.padding-vertical {
+  padding-right: 0rem !important;
+  padding-left: 0rem !important;
+}
+
+/* Make sure containers never lose their center alignment*/
+.container-medium, .container-small, .container-large {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/* Get rid of top margin on first element in any rich text element */
+.w-richtext > :not(div):first-child, .w-richtext > div:first-child > :first-child {
+  margin-top: 0 !important;
+}
+
+/* Get rid of bottom margin on last element in any rich text element */
+.w-richtext>:last-child, .w-richtext ol li:last-child, .w-richtext ul li:last-child {
+	margin-bottom: 0 !important;
+}
+
+

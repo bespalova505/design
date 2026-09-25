@@ -1,0 +1,197 @@
+
+
+/* desktop variables */
+:root {	
+  /* hover duration and ease */
+  --hover-duration-1: 400ms;
+  --hover-duration-2: 800ms;
+  --hover-ease-1: ease;
+  --hover-ease-2: cubic-bezier(.075, .82, .165, 1);
+}
+/* tablet */
+@media screen and (max-width: 991px) {
+  :root {
+  	/* heading values*/
+    --heading--h1: var(--heading--md--h1);
+    --heading--h2: var(--heading--md--h2);
+    --heading--h3: var(--heading--md--h3);
+    --heading--h4: var(--heading--md--h4);
+    --heading--h5: var(--heading--md--h5);
+    --heading--h6: var(--heading--md--h6);
+  }
+}
+/* mobile landscape*/
+@media screen and (max-width: 767px) {
+  :root {
+  	/* heading values*/
+    --heading--h1: var(--heading--sm--h1);
+    --heading--h2: var(--heading--sm--h2);
+    --heading--h3: var(--heading--sm--h3);
+    --heading--h4: var(--heading--sm--h4);
+    --heading--h5: var(--heading--sm--h5);
+    --heading--h6: var(--heading--sm--h6);
+  }
+}
+/* mobile portrait */
+@media screen and (max-width: 478) {
+  :root {
+  	/*heading values*/
+    --heading--h1: var(--heading--xs--h1);
+    --heading--h2: var(--heading--xs--h2);
+    --heading--h3: var(--heading--xs--h3);
+    --heading--h4: var(--heading--xs--h4);
+    --heading--h5: var(--heading--xs--h5);
+    --heading--h6: var(--heading--xs--h6);
+  }
+}
+
+/* section styles */
+main section, header, footer {
+	position: relative;
+}
+
+/* Section Padding */
+/* default */
+[spacing-top="2"] { padding-top: var(--core-structure--section-medium); }
+[spacing-bottom="2"] { padding-bottom: var(--core-structure--section-medium); }
+/* small */
+[spacing-top="1"] {  padding-top: var(--core-structure--section-small); }
+[spacing-bottom="1"] { padding-bottom: var(--core-structure--section-small); }
+/* large */
+[spacing-top="3"] { padding-top: var(--core-structure--section-large); }
+[spacing-bottom="3"] { padding-bottom: var(--core-structure--section-large); }
+/* none */
+[spacing-top="0"] { padding-top: 0; }
+[spacing-bottom="0"] { padding-bottom: 0; }
+
+
+/* remove scroll bounce */
+body { overscroll-behavior: none; }
+
+/* container styles */
+.w-container {
+  container-type: inline-size;
+}
+
+/* 
+Make the following elements inherit typography styles from the parent and not have hardcoded values. 
+Important: You will not be able to style for example "All Links" in Designer with this CSS applied.
+Uncomment this CSS to use it in the project. Leave this message for future hand-off.
+*/
+
+a,
+.w-input,
+.w-select,
+.w-tab-link,
+.w-nav-link,
+.w-dropdown-btn,
+.w-dropdown-toggle,
+.w-dropdown-link {
+  color: inherit;
+  text-decoration: inherit;
+  font-size: inherit;
+}
+
+*[tabindex]:focus-visible,
+  input[type="file"]:focus-visible {
+   outline: 2px solid #4d65ff;
+   outline-offset: 2px;
+}
+
+
+/* Prevent all click and hover interaction with an element */
+.pointer-events-off, .styleguide_empty-box {
+	pointer-events: none;
+}
+
+/* Enables all click and hover interaction with an element */
+.pointer-events-on {
+  pointer-events: auto;
+}
+
+/* Snippet enables you to add class of div-square which creates and maintains a 1:1 dimension of a div.*/
+.div-square::after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+/*Hide focus outline for main content element*/
+    main:focus-visible {
+    outline: -webkit-focus-ring-color auto 0px;
+}
+
+
+/*Reset selects, buttons, and links styles*/
+.w-input, .w-select, a {
+color: inherit;
+text-decoration: inherit;
+font-size: inherit;
+}
+
+/*Apply "..." after 3 lines of text */
+.text-style-3lines {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+/* Apply "..." after 2 lines of text */
+.text-style-2lines {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+/* Apply "..." at 100% width */
+.truncate-width { 
+		width: 100%; 
+    white-space: nowrap; 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+}
+/* Removes native scrollbar */
+.no-scrollbar {
+    -ms-overflow-style: none;  // IE 10+
+    overflow: -moz-scrollbars-none;  // Firefox
+}
+
+.no-scrollbar::-webkit-scrollbar {
+    display: none; // Safari and Chrome
+}
+
+/* Adds inline flex display */
+.display-inlineflex {
+  display: inline-flex;
+}
+
+/* split layout */
+@media screen and (min-width: 768px) {
+	[reverse-split-layout="true"] {
+  	  order: -999 !important;
+	}
+}
+/* button transitions */
+.button {
+	transition-property: background-color, color, border-color, box-shadow;
+  transition-duration: var(--hover-duration-1);
+  transition-timing-function: var(--hover-ease-1);
+}
+
+/* opacity */
+[opacity="0"] {opacity: 0;}
+[opacity="10"] {opacity: .1;}
+[opacity="20"] {opacity: .2;}
+[opacity="30"] {opacity: .3;}
+[opacity="40"] {opacity: .4;}
+[opacity="50"] {opacity: .5;}
+[opacity="60"] {opacity: .6;}
+[opacity="70"] {opacity: .7;}
+[opacity="80"] {opacity: .8;}
+[opacity="90"] {opacity: .9;}
+[opacity="100"] {opacity: 1;}
+
+/* text wrap */
+.text-wrap-balance { text-wrap: balance; }
+

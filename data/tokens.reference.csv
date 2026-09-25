@@ -1,0 +1,175 @@
+name,value,context,source
+--color--background--primary,var(--swatch--light-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--paragraph,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--text--primary,var(--swatch--dark-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h1,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h1,3.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h2,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h2,3rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h3,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h3,2.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h4,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h4,2rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h5,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h5,1.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--h6,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--h6,1.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--text--secondary,var(--swatch--dark-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--swatch--dark-1,black,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--block-quote,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--max-width-large,80rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--max-width-medium,64rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--max-width-small,48rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--tiny,var(--size--0-25),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xxsmall,var(--size--0-5),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xsmall,var(--size--1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--small,var(--size--1-5),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--medium,var(--size--2),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--large,var(--size--3),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xlarge,var(--size--4),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xxlarge,var(--size--5),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--huge,var(--size--6),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xhuge,var(--size--7),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--spacing--xxhuge,var(--size--10),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--swatch--light-1,white,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--swatch--light-2,#f4f4f4,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-width--main,1px,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--button,var(--text-family--options--system),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--text--light-primary,var(--swatch--light-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--border--primary,var(--swatch--dark-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--swatch--brand-1,#5139eb,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--background--dark,var(--swatch--dark-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--section-small,var(--size--3),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--page-padding,5vw,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--section-medium,var(--size--5),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--core-structure--section-large,var(--size--7),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--options--system,"system-ui, -apple-system, BlinkMacSystemFont, ""Segoe UI"", Roboto, Oxygen, Ubuntu, Cantarell, ""Fira Sans"", ""Droid Sans"", ""Helvetica Neue"", sans-serif",,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--options--montserrat,"Montserrat, sans-serif",,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--text-family--options--vollkorn,"Vollkorn, serif",,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--0-25,.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--0-5,.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--0-75,.75rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--1,1rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--1-25,1.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--1-5,1.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--1-75,1.75rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--2,2rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--2-5,2.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--3,3rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--3-5,3.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--4,4rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--4-5,4.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--5,5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--6,6rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--7,7rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--8,8rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--9,9rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--10,10rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--11,11rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--12,12rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--13,13rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--14,14rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--15,15rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--16,16rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--17,17rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--18,18rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--19,19rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--20,20rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--text--accent,var(--swatch--brand-1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-width--large,2px,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-radius--medium,1.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-radius--x-small,.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-radius--small,1rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-radius--large,3rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h1,3.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h1,2.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h1,var(--heading--sm--h1),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h2,2.75rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h3,2.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h4,1.75rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h5,1.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--md--h6,var(--heading--h6),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h2,2.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h3,2rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h4,1.5rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h5,1.25rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--sm--h6,1.125rem,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h2,var(--heading--sm--h2),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h3,var(--heading--sm--h3),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h4,var(--heading--sm--h4),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h5,var(--heading--sm--h5),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--heading--xs--h6,var(--heading--h6),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--border-radius--rounded,100vw,,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--background--secondary,var(--swatch--light-2),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--border--secondary,var(--swatch--light-2),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--color--text--light-secondary,var(--swatch--light-2),,archive/raw/assets/assets-global.website-files.com/c4a7fd58cf85-variable-design-system.webflow.08f7d96a9.css
+--size--2-5,2.25rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--3,2.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--3-5,2.75rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--4,3rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--4-5,3.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--5,4rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--6,4.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--7,5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--8,5.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--9,6rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--10,6.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--11,7rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--12,7.5rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--13,8rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--14,9rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--15,10rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--16,11rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--17,12rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--18,13rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--19,14rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--20,15rem,@media screen and (max-width: 991px),extracted/inline/global-01.css
+--size--0-75,0.625rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--1,0.75rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--1-25,1rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--1-5,1.125rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--1-75,1.25rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--2,1.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--2-5,2.125rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--3,2.25rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--3-5,2.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--4,2.75rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--4-5,3rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--5,3.25rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--6,3.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--7,3.75rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--8,4rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--9,4.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--10,5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--11,5.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--12,6rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--13,6.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--14,7rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--15,7.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--16,8rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--17,8.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--18,9rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--19,9.5rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--size--20,10rem,@media screen and (max-width: 767px),extracted/inline/global-01.css
+--hover-duration-1,400ms,,extracted/inline/global-02.css
+--hover-duration-2,800ms,,extracted/inline/global-02.css
+--hover-ease-1,ease,,extracted/inline/global-02.css
+--hover-ease-2,"cubic-bezier(.075, .82, .165, 1)",,extracted/inline/global-02.css
+--heading--h1,var(--heading--md--h1),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h2,var(--heading--md--h2),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h3,var(--heading--md--h3),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h4,var(--heading--md--h4),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h5,var(--heading--md--h5),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h6,var(--heading--md--h6),@media screen and (max-width: 991px),extracted/inline/global-02.css
+--heading--h1,var(--heading--sm--h1),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h2,var(--heading--sm--h2),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h3,var(--heading--sm--h3),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h4,var(--heading--sm--h4),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h5,var(--heading--sm--h5),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h6,var(--heading--sm--h6),@media screen and (max-width: 767px),extracted/inline/global-02.css
+--heading--h1,var(--heading--xs--h1),@media screen and (max-width: 478),extracted/inline/global-02.css
+--heading--h2,var(--heading--xs--h2),@media screen and (max-width: 478),extracted/inline/global-02.css
+--heading--h3,var(--heading--xs--h3),@media screen and (max-width: 478),extracted/inline/global-02.css
+--heading--h4,var(--heading--xs--h4),@media screen and (max-width: 478),extracted/inline/global-02.css
+--heading--h5,var(--heading--xs--h5),@media screen and (max-width: 478),extracted/inline/global-02.css
+--heading--h6,var(--heading--xs--h6),@media screen and (max-width: 478),extracted/inline/global-02.css

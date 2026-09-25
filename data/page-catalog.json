@@ -1,0 +1,358 @@
+[
+  {
+    "url": "https://variable-design-system.webflow.io/",
+    "path": "index.html",
+    "title": "Client First Inspired Design System with Variables",
+    "headings": [],
+    "styleguide_sections": []
+  },
+  {
+    "url": "https://variable-design-system.webflow.io/dev/components",
+    "path": "dev/components/index.html",
+    "title": "Components",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Components",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Table of Contents",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Intro to Components",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "How to Edit a Component",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Understanding component properties",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Components and Variables",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Components in this site",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Medium length section heading goes here",
+        "id": null
+      }
+    ],
+    "styleguide_sections": [
+      "Components"
+    ]
+  },
+  {
+    "url": "https://variable-design-system.webflow.io/dev/designer-guide",
+    "path": "dev/designer-guide/index.html",
+    "title": "Designer Guide",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Designer Guide",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Table of Contents",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Getting Started",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "What is Client First?",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Why bother?",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "The Goals of Client First",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Class Naming",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "The two main types of classes",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Utility Classes",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Utility class examples:",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Class Stacking",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Custom Classes",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Custom class examples:",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Naming Custom Classes",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Variables",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Using variables in classes",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Core Structure",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "page-wrapper",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "main-wrapper",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "section_[section-identifier]",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "padding-global",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "container-[size]",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "padding-section-[size]",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Typography",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Using Utility type classes",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Working with headings",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Sizes and rem",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Spacing Strategy",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Key Takeaways",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Resources & Acknowledgments",
+        "id": null
+      }
+    ],
+    "styleguide_sections": []
+  },
+  {
+    "url": "https://variable-design-system.webflow.io/dev/style-guide",
+    "path": "dev/style-guide/index.html",
+    "title": "Style Guide",
+    "headings": [
+      {
+        "level": 1,
+        "text": "Style Guide",
+        "id": null
+      },
+      {
+        "level": 1,
+        "text": "Heading 1",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading 2",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Heading 3",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Heading 4",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Heading 5",
+        "id": null
+      },
+      {
+        "level": 6,
+        "text": "Heading 6",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h1",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h2",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h3",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h4",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h5",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading-style-h6",
+        "id": null
+      },
+      {
+        "level": 1,
+        "text": "Heading 1",
+        "id": null
+      },
+      {
+        "level": 2,
+        "text": "Heading 2",
+        "id": null
+      },
+      {
+        "level": 3,
+        "text": "Heading 3",
+        "id": null
+      },
+      {
+        "level": 4,
+        "text": "Heading 4",
+        "id": null
+      },
+      {
+        "level": 5,
+        "text": "Heading 5",
+        "id": null
+      },
+      {
+        "level": 6,
+        "text": "Heading 6",
+        "id": null
+      }
+    ],
+    "styleguide_sections": [
+      "Typography",
+      "Colors",
+      "Effects",
+      "UI Elements",
+      "Structure Classes",
+      "Responsive Sizes",
+      "Full Sizes",
+      "Max Widths",
+      "Paddings",
+      "Margins",
+      "Spacers",
+      "Utility Classes"
+    ]
+  }
+]

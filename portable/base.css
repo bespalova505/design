@@ -1,0 +1,26 @@
+/* Small independent implementation using adapted reference tokens. No Webflow JS. */
+:root { --button-background: var(--swatch--dark-1); --button-foreground: var(--swatch--light-1); --button-border: var(--color--border--primary); }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--color--background--primary); color: var(--color--text--primary); font: 1rem/1.6 var(--text-family--paragraph); }
+a { color: inherit; } button, input { font: inherit; } img { max-width: 100%; height: auto; }
+:focus-visible { outline: 3px solid var(--swatch--brand-1); outline-offset: 4px; }
+.ds-container { width: min(100%,var(--core-structure--max-width-large)); margin-inline: auto; padding-inline: var(--core-structure--page-padding); }
+.ds-section { padding-block: var(--core-structure--section-medium); }
+.ds-section + .ds-section { border-top: 1px solid var(--color--border--secondary); }
+.ds-split { display: grid; grid-template-columns: 1.1fr 1fr; gap: var(--spacing--xxlarge); align-items: center; }
+.ds-stack > * { margin-block: 0; } .ds-stack > * + * { margin-top: var(--spacing--small); }
+.ds-h1 { font-size: var(--heading--h1); line-height: 1.15; letter-spacing: -.04em; font-weight: 700; }
+.ds-h2 { font-size: var(--heading--h2); line-height: 1.2; letter-spacing: -.035em; }
+.ds-h6 { font-size: var(--heading--h6); line-height: 1.4; }
+.ds-eyebrow { color: var(--color--text--accent); font-size: .8rem; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; }
+.ds-actions { display: flex; flex-wrap: wrap; gap: var(--spacing--small); align-items: center; }
+.ds-button { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: .75rem 1.5rem; color: var(--button-foreground); background: var(--button-background); border: 1px solid var(--button-border); text-decoration: none; border-radius: .4rem; cursor: pointer; }
+.ds-button--secondary { color: var(--color--text--primary); background: transparent; } .ds-button:hover { opacity: .85; }
+.ds-panel { padding: var(--spacing--large); background: var(--color--background--secondary); border-radius: var(--border-radius--medium); }
+.ds-grid { display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); gap: var(--spacing--small); }
+.ds-card { border: 1px solid var(--color--border--secondary); padding: var(--spacing--medium); border-radius: var(--border-radius--x-small); } .ds-card h3 { margin-top: 0; }
+.ds-radio-group { border: 1px solid var(--color--border--secondary); padding: var(--spacing--medium); }
+.ds-radio-group label { display: inline-flex; gap: .5rem; margin-right: 1rem; padding: .5rem 0; }
+.ds-notice { font-size: .875rem; opacity: .75; } code { overflow-wrap: anywhere; }
+@media(max-width:767px) { .ds-split,.ds-grid { grid-template-columns: 1fr; } }
+@media(prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior: auto !important; transition: none !important; } }
